@@ -12,7 +12,7 @@ Modelo de classificação para prever o desfecho clínico (cura vs óbito) de pa
 
 | Campo | Valor |
 |-------|-------|
-| Fonte | [OpenDataSUS — Ministério da Saúde](https://opendatasus.saude.gov.br/dataset/srag-2021-a-2024) |
+| Fonte | [OpenDataSUS — Ministério da Saúde](https://dadosabertos.saude.gov.br/dataset/srag-2019-a-2026) |
 | Arquivo | `INFLUD24-26-06-2025.csv` |
 | Registros | ~268 mil |
 | Variáveis | 194 |
@@ -24,9 +24,10 @@ Modelo de classificação para prever o desfecho clínico (cura vs óbito) de pa
 
 | Campo | Valor |
 |-------|-------|
-| Fonte | [COVID-19 Radiography Database — Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database) |
+| Fonte | [COVID-19 Radiography Database — Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data) |
 | Download | Automático via `kagglehub` (requer `~/.kaggle/kaggle.json`) |
 | Classes | COVID, Normal, Lung\_Opacity, Viral Pneumonia |
+
 
 ---
 
